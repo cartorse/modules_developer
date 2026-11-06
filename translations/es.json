@@ -1,0 +1,23 @@
+{
+  "Modules Developer": "Módulos Desarrollador",
+  "Manage and view modules by developer": "Gestionar y ver módulos de un desarrollador",
+  "Developer Settings": "Configuración Desarrollador",
+  "Author Name": "Nombre Autor",
+  "Enter the developer/author name to filter modules": "Ingresa el nombre del desarrollador/autor para filtrar módulos",
+  "Save": "Guardar",
+  "Settings updated": "Configuración actualizada",
+  "Developer Modules": "Módulos Desarrollador",
+  "Showing modules from:": "Mostrando módulos de:",
+  "No author name configured": "Sin nombre de autor configurado",
+  "Please configure the author name in module settings": "Por favor configura el nombre del autor en la configuración del módulo",
+  "Version:": "Versión:",
+  "Author:": "Autor:",
+  "Technical Name:": "Nombre Técnico:",
+  "Description:": "Descripción:",
+  "Status:": "Estado:",
+  "Installed": "Instalado",
+  "Not Installed": "No instalado",
+  "Manage": "Gestionar",
+  "No modules found": "Sin módulos encontrados",
+  "for author": "para autor"
+}
